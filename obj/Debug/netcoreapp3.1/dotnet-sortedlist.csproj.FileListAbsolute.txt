@@ -1,0 +1,10 @@
+/Users/hunggia/Development/CodeGym/dotnet-sortedlist/dotnet-sortedlist/bin/Debug/netcoreapp3.1/dotnet-sortedlist.deps.json
+/Users/hunggia/Development/CodeGym/dotnet-sortedlist/dotnet-sortedlist/bin/Debug/netcoreapp3.1/dotnet-sortedlist.runtimeconfig.json
+/Users/hunggia/Development/CodeGym/dotnet-sortedlist/dotnet-sortedlist/bin/Debug/netcoreapp3.1/dotnet-sortedlist.runtimeconfig.dev.json
+/Users/hunggia/Development/CodeGym/dotnet-sortedlist/dotnet-sortedlist/bin/Debug/netcoreapp3.1/dotnet-sortedlist.dll
+/Users/hunggia/Development/CodeGym/dotnet-sortedlist/dotnet-sortedlist/bin/Debug/netcoreapp3.1/dotnet-sortedlist.pdb
+/Users/hunggia/Development/CodeGym/dotnet-sortedlist/dotnet-sortedlist/obj/Debug/netcoreapp3.1/dotnet-sortedlist.csprojAssemblyReference.cache
+/Users/hunggia/Development/CodeGym/dotnet-sortedlist/dotnet-sortedlist/obj/Debug/netcoreapp3.1/dotnet-sortedlist.AssemblyInfoInputs.cache
+/Users/hunggia/Development/CodeGym/dotnet-sortedlist/dotnet-sortedlist/obj/Debug/netcoreapp3.1/dotnet-sortedlist.AssemblyInfo.cs
+/Users/hunggia/Development/CodeGym/dotnet-sortedlist/dotnet-sortedlist/obj/Debug/netcoreapp3.1/dotnet-sortedlist.dll
+/Users/hunggia/Development/CodeGym/dotnet-sortedlist/dotnet-sortedlist/obj/Debug/netcoreapp3.1/dotnet-sortedlist.pdb
